@@ -1,0 +1,27 @@
+input{
+    height: 30px;
+    width: 50vw;
+    border-color: #7fc5ff;
+}
+.btn{
+    background-color: wheat;
+    height: 40px;
+    width: 20vw;
+    margin-left: 10px;
+    padding: 10px;
+    border-color: black;
+   
+}
+
+
+.search{
+    display: block;
+    background-color: transparent;
+    margin-left: -8px;
+    margin-right: -8px;
+    color: black;
+}
+
+::placeholder{
+    color: gray;
+}
